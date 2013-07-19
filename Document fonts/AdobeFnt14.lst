@@ -1,0 +1,105 @@
+%!Adobe-FontList 1.14
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Consolas
+FamilyName:Consolas
+StyleName:Regular
+FullName:Consolas
+MenuName:Consolas
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Google Drive\Ref cards\ColdBox Ref Card\Document fonts\consola.ttf
+DataFormat:sfntData
+FileLength:358324
+FileModTime:1343290302
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Google Drive\Ref cards\ColdBox Ref Card\Document fonts\desktop.ini
+FileModTime:1373921519
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+FullName:Open Sans Light
+MenuName:Open Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Google Drive\Ref cards\ColdBox Ref Card\Document fonts\Open Sans 300.ttf
+DataFormat:sfntData
+FileLength:222412
+FileModTime:1367833873
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+FullName:Open Sans Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Google Drive\Ref cards\ColdBox Ref Card\Document fonts\Open Sans 600.ttf
+DataFormat:sfntData
+FileLength:221328
+FileModTime:1367833868
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Google Drive\Ref cards\ColdBox Ref Card\Document fonts\Open Sans 700.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1367833882
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Google Drive\Ref cards\ColdBox Ref Card\Document fonts\Open Sans regular.ttf
+DataFormat:sfntData
+FileLength:217360
+FileModTime:1367833871
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
