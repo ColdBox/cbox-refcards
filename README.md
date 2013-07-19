@@ -1,4 +1,4 @@
-cbox-refcards
-=============
+ColdBox Refcards
+================
 
-A collection of Box Related Ref Cards
+A collection of *Box Related Ref Cards
